@@ -20,6 +20,9 @@ https://api.telegram.org/bot<ТОКЕН>/getUpdates
 
 ## 3. Разместите страницу
 
+**Уже опубликовано:** https://kirilleshk.github.io/anketa-avtostatus/ (репозиторий `Kirilleshk/anketa-avtostatus`, ветка `main`, GitHub Pages).
+Чтобы обновить анкету, сделайте коммит изменённого `index.html` в этой папке и `git push`. Через минуту новая версия будет на сайте. Черновики ответов, которые клиент уже начал заполнять, сохранятся.
+
 Подойдёт любой адрес с https:
 
 - **GitHub Pages** (бесплатно): новый репозиторий → загрузите `index.html` → Settings → Pages → Deploy from branch → `main` / `root`. Адрес будет вида `https://<логин>.github.io/<репозиторий>/`.
